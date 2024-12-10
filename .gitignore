@@ -3,3 +3,4 @@ IMDB/mlruns/
 IMDB/dfClean2.csv
 IMDB/cleaned_reviews.csv
 IMDB/IMDB Dataset.csv
+IMDB/_pycache_/
