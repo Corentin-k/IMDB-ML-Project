@@ -14,4 +14,4 @@ jobs:
 
     steps:
     - name: Docker Compose Up
-        run: docker-compose up -d
+      run: docker-compose up -d
