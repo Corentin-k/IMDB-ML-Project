@@ -13,6 +13,8 @@
 - [<img src="https://github.com/lolo2109.png" width="40" height="40" style="border-radius: 50%;" alt="Lolo2109" /> Lolo2109](https://github.com/lolo2109)
 
 ---
+You can find the dataset here : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+---
 
 ## 📖 Description
 
