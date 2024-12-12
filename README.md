@@ -116,15 +116,15 @@ docker-compose up --build
 
 The sentiment analysis model has been evaluated on several metrics:
 
-- **Accuracy**: 88.19%
+- **Accuracy**: 88.54%
 - **Precision**:
   - Positive: 0.88
   - Negative: 0.89
 - **Recall**:
-  - Positive: 0.89
+  - Positive: 0.90
   - Negative: 0.87
 - **F1-Score**:
-  - Positive: 0.88
+  - Positive: 0.89
   - Negative: 0.88
 - **AUC**: 0.95
 
